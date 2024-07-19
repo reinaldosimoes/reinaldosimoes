@@ -1,5 +1,5 @@
 <p align="center">
-  Lead front-end developer and UX designer. Expert in scalable web solutions and cross-functional team leadership. Passionate about coding optimization and high-quality software delivery. Avid photographer capturing compelling visuals.
+  Expert in scalable web solutions and cross-functional team leadership. Passionate about coding optimization and high-quality software delivery. Avid photographer capturing compelling visuals.
 </p>
 
 <p align="center">
