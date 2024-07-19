@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+  Lead front-end developer and UX designer. Expert in scalable web solutions and cross-functional team leadership. Passionate about coding optimization and high-quality software delivery. Avid photographer capturing compelling visuals.
+</p>
 
-<!--
-**reinaldosimoes/reinaldosimoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://reinaldo.pt" target="_blank">
+  <img alt="Visit My Website" src="https://img.shields.io/badge/Visit-reinaldo.pt-blue?style=social" />
+</a>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+</p>
