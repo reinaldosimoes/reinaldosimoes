@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://reinaldo.pt?utm_source=github" target="_blank">
-    <img alt="Visit My Website" src="https://img.shields.io/badge/reinaldo.pt-%231DB954.svg?&style=for-the-badge&logo=react&logoColor=white" />
+    <img alt="Visit My Website" src="https://img.shields.io/badge/reinaldo.pt-%231DB954.svg?&style=for-the-badge" />
   </a>
 </p>
 
