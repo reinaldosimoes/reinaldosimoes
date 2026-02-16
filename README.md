@@ -11,7 +11,7 @@
 <h2>Working on</h2>
 
 <ul>
-  <li><a href="https://weathertorun.app?utm_source=github" target="_blank">⛅ WeatherToRun</a> - know when is the best time to go a run based on the weather</li>
-  <li><a href="https://caresheet.app?utm_source=github" target="_blank">🐶 CareSheet</a> - create pages for your pets for your sitter</li>
-  <li><a href="https://github.com/reinaldosimoes/race-blur-detector" target="_blank">Race Blur Detector</a> - helping you scan for blurry race day photos</li>
+  <li>⛅ <a href="https://weathertorun.app?utm_source=github" target="_blank">WeatherToRun</a> - know when is the best time to go a run based on the weather</li>
+  <li>🐶 <a href="https://caresheet.app?utm_source=github" target="_blank">CareSheet</a> - create pages for your pets for your sitter</li>
+  <li>📷 <a href="https://github.com/reinaldosimoes/race-blur-detector" target="_blank">Race Blur Detector</a> - helping you scan for blurry race day photos</li>
 </ul>
