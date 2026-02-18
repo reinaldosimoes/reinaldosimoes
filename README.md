@@ -11,6 +11,6 @@
 <h2>Working on</h2>
 
 <ul>
-  <li>⛅ <a href="https://weathertorun.app?utm_source=github" target="_blank">WeatherToRun</a> - scores current weather conditions from 0 to 100 based on how they impact running, and suggests what to wear</li>
+  <li>⛅ <a href="https://weathertorun.app?utm_source=github" target="_blank">WeatherToRun</a> - scores current weather conditions from 0 to 100 and suggests what to wear</li>
   <li>🐶 <a href="https://caresheet.app?utm_source=github" target="_blank">CareSheet</a> - help sitters by creating pages for your pets</li>
 </ul>
