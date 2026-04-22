@@ -7,9 +7,3 @@
 
   Visit my website - <a href="https://reinaldo.pt?utm_source=github" target="_blank">reinaldo.pt</a>
 </p>
-
-<h2>Working on</h2>
-
-<ul>
-  <li>⛅ <a href="https://weathertorun.app?utm_source=github" target="_blank">WeatherToRun</a></li>
-</ul>
